@@ -1,0 +1,8 @@
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\bin\Release\Quiz Informatyczny.exe.config
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\bin\Release\Quiz Informatyczny.exe
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\bin\Release\Quiz Informatyczny.pdb
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\obj\Release\Quiz Informatyczny.csproj.AssemblyReference.cache
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\obj\Release\Quiz Informatyczny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\obj\Release\Quiz Informatyczny.csproj.CoreCompileInputs.cache
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\obj\Release\Quiz Informatyczny.exe
+C:\Users\Pawil\Desktop\informatyka2\Quiz Informatyczny\obj\Release\Quiz Informatyczny.pdb
